@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.2",
+  "startedAt":  "2026-04-27T16:22:45.823987Z",
+  "program":  "C:\\Users\\harJD\\Downloads\\Studies\\Projects for internship cv\\mlops-pipeline\\train.py",
+  "codePath":  "train.py",
+  "codePathLocal":  "train.py",
+  "email":  "haronjadid@gmail.com",
+  "root":  "C:\\Users\\harJD\\Downloads\\Studies\\Projects for internship cv\\mlops-pipeline",
+  "host":  "Lenovo_Haron",
+  "executable":  "C:\\Users\\harJD\\Downloads\\Studies\\Projects for internship cv\\mlops-pipeline\\venv\\Scripts\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "511086424064",
+      "used":  "497646936064"
+    }
+  },
+  "memory":  {
+    "total":  "14877257728"
+  },
+  "writerId":  "s97y1fj44tttw6w754hvplk9krwv85r0"
+}

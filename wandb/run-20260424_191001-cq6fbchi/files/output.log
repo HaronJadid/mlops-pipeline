@@ -1,0 +1,7 @@
+Starting training...
+Epoch 0 | Loss: 0.7582 | Accuracy: 0.4500
+Epoch 10 | Loss: 0.5902 | Accuracy: 0.7563
+Epoch 20 | Loss: 0.4364 | Accuracy: 0.8675
+Epoch 30 | Loss: 0.3276 | Accuracy: 0.8763
+Epoch 40 | Loss: 0.2949 | Accuracy: 0.8737
+[34m[1mwandb[0m: [33mWARNING[0m Linked 1 file into the W&B run directory (hardlinks); call wandb.save again to sync new files.

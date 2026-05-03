@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "8080:8000"
+    # This automatically restarts the container if it crashes
+    restart: always
