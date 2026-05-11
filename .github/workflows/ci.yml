@@ -31,4 +31,6 @@ jobs:
           pip install fastapi uvicorn pydantic scikit-learn
 
       - name: Test Docker Build
-        run: docker build -t fraud-api:test .
+        run: |
+          touch model.pt
+          docker build -t fraud-api:test .
