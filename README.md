@@ -21,7 +21,7 @@ Thanks to Docker Compose, you can spin up the entire infrastructure with a singl
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/mlops-pipeline.git](https://github.com/YOUR_USERNAME/mlops-pipeline.git)
+   git clone [https://github.com/HaronJadid/mlops-pipeline.git](https://github.com/HaronJadid/mlops-pipeline.git)
    cd mlops-pipeline
    
 Start the application:
