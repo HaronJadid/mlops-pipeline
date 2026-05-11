@@ -5,5 +5,4 @@ services:
     build: .
     ports:
       - "8080:8000"
-    # This automatically restarts the container if it crashes
     restart: always
