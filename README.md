@@ -49,3 +49,4 @@ JSON
   "fraud_probability": 0.8148,
   "is_fraud": true
 }
+
