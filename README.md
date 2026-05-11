@@ -50,12 +50,3 @@ JSON
   "is_fraud": true
 }
 
-*(Note: Don't forget to replace `YOUR_USERNAME` in the clone link as well!)*
-
-#### Step 2: Push the Polish to Production
-Once you've saved that file, send it up to GitHub to complete the project:
-
-```bash
-git add README.md
-git commit -m "docs: add professional README and architecture overview"
-git push origin main
